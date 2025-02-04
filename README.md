@@ -9,8 +9,6 @@ I'm an Electronic and Telecommunication Engineering undergraduate at University 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=InduwaraGayashan001&theme=dark&hide_border=true)<br/>
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=InduwaraGayashan001)
-
 ---
 
 
